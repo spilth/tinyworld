@@ -1,0 +1,161 @@
+--- 
+- Block: 
+    :x: 0.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 16.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 32.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 48.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 64.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 80.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 96.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 112.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 48.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 64.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 80.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 96.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 112.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 128.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 160.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Ladder: 
+    :x: 128.0
+    :y: 144.0
+    :angle: 0
+    :zorder: 200
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 128.0
+    :y: 176.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 112.0
+    :y: 176.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 96.0
+    :y: 176.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
+- Block: 
+    :x: 80.0
+    :y: 176.0
+    :angle: 0
+    :zorder: 100
+    :factor_x: 1.0
+    :factor_y: 1.0
+    :alpha: 255
